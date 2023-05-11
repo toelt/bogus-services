@@ -1,2 +1,2 @@
 # bogus-services
-![alt text](./small-changes.jpeg)
+![alt text](./small-changes.png)
